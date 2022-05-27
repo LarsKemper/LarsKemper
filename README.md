@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/.github/logo.png?raw=true"/>
+<img src="header.png?raw=true"/>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/LarsKemper)
